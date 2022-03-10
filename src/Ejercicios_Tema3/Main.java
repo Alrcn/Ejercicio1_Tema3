@@ -35,9 +35,7 @@ public class Main {
 
 
 
-        System.out.println("\n"+s1.toString());
-        System.out.println(a1.toString());
-        System.out.println(c1.toString());
+
 
 
     }

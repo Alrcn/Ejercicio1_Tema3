@@ -16,9 +16,8 @@ public class Abogado extends Empleado {
     }
     public String getMesVacaciones() {
         return "Julio"; }
+    public String getImprime() {
+        return "Estoy en el tribunal"; }
 
-    @Override
-    public String toString() {
-        return super.toString() + "“ Estoy en el tribunal";
-    }
+
 }
