@@ -28,7 +28,9 @@ public class Main {
             }
 
             for (int j= 0; j<arrayE.length ; j++){
-                System.out.println(arrayE[j].toString());
+
+                System.out.println("\n Mis vacaciones: "+arrayE[j].getVacaciones()+", Mi mes de vacaciones: "+arrayE[j].getMesVacaciones()
+                 +", Mi salario: "+arrayE[j].getSalario()+", Mis horas de trabajo son: " +arrayE[j].getHoras());
             }
 
 
